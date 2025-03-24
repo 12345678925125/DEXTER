@@ -59,7 +59,7 @@ section {
 }
 
 
-.botao-inicio {
+.botao-inicio {https://dexter-three-iota.vercel.app/#tropicalia
     background-color: var(--laranja-claro);
     border-radius: 30px;
     border: none;
@@ -197,4 +197,9 @@ h2 {
 }
 .alto-contraste .fundo-galeria {
     background: none;
+}
+
+#cassio{
+    height: 40%; 
+    width: 60%;
 }
